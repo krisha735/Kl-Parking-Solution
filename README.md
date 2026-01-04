@@ -1,5 +1,4 @@
-# Kl-Parking-Solution
-Database System Assignment
+# This is to showcase the outcome of our Group 2 Database System Assignment.
 
 # 🚗 KLParkEasyASM: AI-Driven Parking Management System
 
